@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b25b0836f854cf49aec4b3e5582bdeb, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: InfectionShot::InfectionShot.GameConfig
+  initialMass: 1
+  criticalMass: 0.2
+  chargeRatePerSecond: 0.25
+  minShotMass: 0.07
+  maxPlannedShare: 0.8
+  playerRadiusBase: 0.25
+  playerRadiusPerMass: 0.5
+  shotRadiusBase: 0.14
+  shotRadiusPerMass: 0.4
+  obstacleRadius: 0.3
+  infectionRadiusBase: 0.45
+  infectionRadiusPerMass: 3.8
+  infectionWaveSpeed: 10
+  shotSpeed: 10
+  maxShotDistance: 40
+  lanePadding: 0.3
+  standoff: 2.2
+  hopLength: 2.4
+  hopDuration: 0.4
+  hopHeight: 0.7
+  doorOpenDistance: 5
+  doorStop: 0.7

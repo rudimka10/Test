@@ -1,0 +1,10 @@
+{
+  "name": "InfectionShot.Editor",
+  "rootNamespace": "InfectionShot.Editor",
+  "references": ["InfectionShot", "Zenject", "UnityEngine.UI", "Unity.InputSystem"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": false
+}
